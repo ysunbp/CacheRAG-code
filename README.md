@@ -27,7 +27,7 @@ Download data folder, results folder, and utils/CRAG_raw folder from https://dri
 ## Experiments
 
 ### CRAG
-Please follow the these steps to train a summarizer and perform KBQA on CRAG
+Please follow the these steps to perform KBQA on CRAG
 ```console
 $ cd scripts
 $ python crag-cacherag-deepseek-exp.py

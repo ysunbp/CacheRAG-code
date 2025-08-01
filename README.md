@@ -35,6 +35,7 @@ $ python crag-cacherag-deepseek-eval.py
 ```
 
 ### QALD-10-en / CWQ / WebQSP
+Please set up the Wikisp model first in the sparql-based folder and then follow the following instructions. 
 ```console
 $ cd sparql-based
 $ python auto-gen-sparql.py

@@ -14,7 +14,7 @@ If you are using Anaconda, you can create a virtual environment and install all 
 
 ```console
 $ conda create --name CacheRAG python=3.9
-$ conda activate cACHErag
+$ conda activate CacheRAG
 $ pip install -r requirements.txt
 ```
 

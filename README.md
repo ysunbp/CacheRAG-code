@@ -22,7 +22,7 @@ $ pip install -r requirements.txt
 
 Set up the mock api server for CRAG, according to the instructions here: https://github.com/ysunbp/CacheRAG-code/tree/main/mockapi
 
-Download data folder, results folder, and utils/CRAG_raw folder from the release page
+Download data folder, results folder, and utils/CRAG_raw folder from the release page: https://github.com/ysunbp/CacheRAG-code/releases/tag/raw_data
 
 ## Experiments
 

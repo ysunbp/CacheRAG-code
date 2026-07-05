@@ -22,6 +22,8 @@ $ pip install -r requirements.txt
 
 Set up the mock api server for CRAG, according to the instructions here: https://github.com/ysunbp/CacheRAG-code/tree/main/mockapi
 
+Unzip CacheRAG-20260705T031737Z-3-001.zip to get the data folder, results folder, and utils/CRAG_raw
+
 ## Experiments
 
 ### CRAG

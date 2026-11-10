@@ -2,6 +2,10 @@
 
 This is the repository for the CacheRAG: A Novel Approach to Enhance KG-based RAG Through Caching Mechanisms.
 
+## Supplementary Material
+
+The supplementary material for *CacheRAG: History-Aware Query Planning over Heterogeneous Knowledge Graph Interfaces* is available as a **[PDF](supplementary/supplement.pdf)**. See the [supplementary directory](supplementary/) for a section guide and editable source files.
+
 ## Install
 
 ```console
